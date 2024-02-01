@@ -5,7 +5,7 @@ Will a customer accept the coupon?
 Consider a marketing campaign where drivers are sent coupons to their cell phone for a nearby dining establishment.
 We will answer the question of what factors impact whether a customer accepts the coupon.
 
-Jupyter notebook used for this analysis is located here: 
+Jupyter notebook used for this analysis is located here: https://github.com/vishaka21/UCB-Will-the-Customer-Accept-the-Coupon/blob/main/prompt.ipynb
 
 ### Approach
 This analysis is broken into two segments:
