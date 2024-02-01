@@ -27,8 +27,7 @@ So building on this theme, I focused my exploratory data analysis on the attribu
 ### Results
 #### Overall
 I did confirm my suspicion that the Takeout acceptance rate was the highest of all coupon categories, at 73.8%
-
-
+![image](https://github.com/vishaka21/UCB-Will-the-Customer-Accept-the-Coupon/assets/492576/106ecc2a-e24e-4ecd-97a5-8fe399c36234)
 
 #### Focused Attribute Investigation
 Looking at the attributes I deemed to be related to convenience, they were mostly positively correlated to acceptance rate, but there was some mixed results as well.
@@ -44,13 +43,12 @@ However, we are speculating a bit here. It would be good follow-up to see how Pa
 __Weather__
 Acceptance rate was clearly worse than average when the weather was poor. In fact it was 76.4% when the weather was Sunny.
 Drivers definitely do not want to drive in poor weather.
-
-
+![image](https://github.com/vishaka21/UCB-Will-the-Customer-Accept-the-Coupon/assets/492576/da0aeef3-663f-4f25-8237-57ca7617dfe4)
 
 __Distance__
 Here's where my predisposition really begins to be challenged (along with direction). There is no consistency with acceptance rate as related to distance!
 When the Takeout restaurant is GE15 minutes away, the acceptance rate is lower than average. However, when it is GE25 minutes away, the rate is higher!
-
+![image](https://github.com/vishaka21/UCB-Will-the-Customer-Accept-the-Coupon/assets/492576/870cd227-123a-4d7f-917c-40f119d5f070)
 
 __Direction__
 In a major surprise, when the Takeout restaurant was in the direction the driver was headed, the acceptance rate was __lower__.
